@@ -13,7 +13,7 @@ body {
 
 header {
     height: 100vh;
-    background-image: url(home_bg.jpeg);
+    background-image: url(imge/home_bg.jpeg);
     background-size: cover;
 }
 
@@ -101,7 +101,6 @@ header .text a:hover {
 .history .title p {
     color: #777;
     font-size: 14px;
-    
 }
 .history .about {
     width: 540px;
@@ -137,7 +136,7 @@ header .text a:hover {
 }
 /* ////////////////////End history //////////////////////*/
 .offers {
-    background-image: url(offer-background.jpg );
+    background-image: url(imge/offer-background.jpg );
     margin-top: 100px;
 }
 .offers .title {
@@ -258,12 +257,12 @@ menu a{
     margin-bottom: 150px; 
 }
 menu a:hover{
-    background-image: url(offer-background.jpg );
+    background-image: url(imge/offer-background.jpg );
     color: white;
 }
 /* ////////////////////End Menu //////////////////////*/
 .timeeat{
-    background-image: url(daytime_bg.jpeg); 
+    background-image: url(imge/daytime_bg.jpeg); 
     margin-top: 50px;
     padding: 65px;
     background-position: center;
@@ -287,7 +286,7 @@ menu a:hover{
 }
 /* /////////////////// Start Gallery///////////////////////*/
 .Gallery {
-    background-image: url(offer-background.jpg);
+    background-image: url(imge/offer-background.jpg);
     padding: 50px;
 }
 .Gallery .content h3{
@@ -362,7 +361,7 @@ section{
 }
 .footer form .Sign button:hover{
     color: white;
-    background-image: url(offer-background.jpg);
+    background-image: url(imge/offer-background.jpg);
 }
 /* //////////////////// Media ALl Web ////////////////////// */
 @media(max-width:730px){
@@ -376,7 +375,7 @@ section{
     }
 }
 @keyframes hover{
-    feom{
+    form{
         transform: scale(1);
     }
     to{
